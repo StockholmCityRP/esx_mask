@@ -40,7 +40,7 @@ function OpenShopMenu()
 			'default', GetCurrentResourceName(), 'shop_confirm',
 			{
 				title = _U('valid_purchase'),
-				align = 'top-left',
+				align = 'bottom-right',
 				elements = {
 					{label = _U('yes'), value = 'yes'},
 					{label = _U('no'), value = 'no'},
